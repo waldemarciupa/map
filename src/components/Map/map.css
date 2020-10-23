@@ -1,0 +1,13 @@
+.map {
+    position: relative;
+    height: 80%;
+    width: 90%;
+}
+
+.map path {
+    transition: fill 0.6s;
+}
+
+.map path:hover {
+    fill: #90959c;
+}
